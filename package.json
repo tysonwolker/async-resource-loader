@@ -1,0 +1,20 @@
+{
+  "name": "async-resource-loader",
+  "version": "0.0.0",
+  "description": "Asynchronous resource loading for Scripts and CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysonwolker/async-resource-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tysonwolker/async-resource-loader/issues"
+  },
+  "homepage": "https://github.com/tysonwolker/async-resource-loader#readme"
+}
